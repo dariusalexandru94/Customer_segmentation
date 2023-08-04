@@ -11,5 +11,5 @@ Owner of a supermarket mall has some basic data about his customers like Custome
 
 ## Tasks
 
-* group customers in relevant segments for targeting customers purposes
-* customer acquisition, customer retention, increasing customer profitability, customer satisfaction
+* group customers in relevant segments for targeting customers purposes;
+* customer acquisition, customer retention, increasing customer profitability, customer satisfaction.
